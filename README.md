@@ -1,4 +1,4 @@
-# I have two versions of making cluster (Cluster.jpg) in this repository (Python and Shell script)
+# I have two versions of making cluster code (Cluster.jpg) in this repository (Python and Shell script)
 
 # Python:
 
